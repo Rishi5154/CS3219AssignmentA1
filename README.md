@@ -1,9 +1,9 @@
-# Here's the steps to starting up the nginx-docker reverse proxy
+# Nginx-docker reverse proxy
 ### Before starting - download Docker for your device from the official site
 ## Steps
 1. Clone this repository
 ```sh 
-git clone https://github.com/Rishi5154/CS3219AssignmentA.git
+git clone https://github.com/Rishi5154/CS3219AssignmentA1.git
 ```
 2. Build the repo as a docker image
 ```sh 
